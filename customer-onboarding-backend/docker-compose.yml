@@ -1,0 +1,10 @@
+# docker-compose.yml
+version: '3.7'
+
+services:
+  app:
+    image: test-10:latest
+    ports:
+      - "8080:5000"
+    environment:
+      DB_UPSTREAM: http://${DOCKER_GATEWAY_HOST:-host.docker.internal}:3000

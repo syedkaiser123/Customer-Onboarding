@@ -1,0 +1,89 @@
+2022-03-21 21:12:11,283 Customer Onboarding App INFO: [In run.py at line 20] | Initializing Customer Onboarding App
+2022-03-21 21:12:11,283 Customer Onboarding App INFO: [In run.py at line 23] | Validating Customer Onboarding App configurations
+2022-03-21 21:12:11,287 Customer Onboarding App INFO: [In run.py at line 29] | Successfully validated configurations and initialized Customer Onboarding App
+2022-03-21 21:12:11,293 Customer Onboarding App DEBUG: [In app.py at line 49] | <Flask 'customer_onboarding.app'>
+2022-03-21 21:12:11,559 Customer Onboarding App INFO: [In run.py at line 20] | Initializing Customer Onboarding App
+2022-03-21 21:12:11,559 Customer Onboarding App INFO: [In run.py at line 23] | Validating Customer Onboarding App configurations
+2022-03-21 21:12:11,564 Customer Onboarding App INFO: [In run.py at line 29] | Successfully validated configurations and initialized Customer Onboarding App
+2022-03-21 21:12:11,569 Customer Onboarding App DEBUG: [In app.py at line 49] | <Flask 'customer_onboarding.app'>
+2022-03-21 21:13:28,408 Customer Onboarding App INFO: [In run.py at line 20] | Initializing Customer Onboarding App
+2022-03-21 21:13:28,408 Customer Onboarding App INFO: [In run.py at line 23] | Validating Customer Onboarding App configurations
+2022-03-21 21:13:28,414 Customer Onboarding App INFO: [In run.py at line 29] | Successfully validated configurations and initialized Customer Onboarding App
+2022-03-21 21:13:28,419 Customer Onboarding App DEBUG: [In app.py at line 49] | <Flask 'customer_onboarding.app'>
+2022-03-21 21:14:31,184 Customer Onboarding App INFO: [In run.py at line 20] | Initializing Customer Onboarding App
+2022-03-21 21:14:31,184 Customer Onboarding App INFO: [In run.py at line 23] | Validating Customer Onboarding App configurations
+2022-03-21 21:14:31,189 Customer Onboarding App INFO: [In run.py at line 29] | Successfully validated configurations and initialized Customer Onboarding App
+2022-03-21 21:14:31,193 Customer Onboarding App DEBUG: [In app.py at line 49] | <Flask 'customer_onboarding.app'>
+2022-03-21 21:14:45,636 Customer Onboarding App INFO: [In run.py at line 20] | Initializing Customer Onboarding App
+2022-03-21 21:14:45,636 Customer Onboarding App INFO: [In run.py at line 23] | Validating Customer Onboarding App configurations
+2022-03-21 21:14:45,641 Customer Onboarding App INFO: [In run.py at line 29] | Successfully validated configurations and initialized Customer Onboarding App
+2022-03-21 21:14:45,646 Customer Onboarding App DEBUG: [In app.py at line 49] | <Flask 'customer_onboarding.app'>
+2022-03-21 21:14:54,039 Customer Onboarding App INFO: [In run.py at line 20] | Initializing Customer Onboarding App
+2022-03-21 21:14:54,039 Customer Onboarding App INFO: [In run.py at line 23] | Validating Customer Onboarding App configurations
+2022-03-21 21:14:54,044 Customer Onboarding App INFO: [In run.py at line 29] | Successfully validated configurations and initialized Customer Onboarding App
+2022-03-21 21:14:54,050 Customer Onboarding App DEBUG: [In app.py at line 49] | <Flask 'customer_onboarding.app'>
+2022-03-28 20:14:57,963 Customer Onboarding App INFO: [In run.py at line 20] | Initializing Customer Onboarding App
+2022-03-28 20:14:57,964 Customer Onboarding App INFO: [In run.py at line 23] | Validating Customer Onboarding App configurations
+2022-03-28 20:14:57,970 Customer Onboarding App INFO: [In run.py at line 29] | Successfully validated configurations and initialized Customer Onboarding App
+2022-03-28 20:15:53,168 Customer Onboarding App INFO: [In run.py at line 20] | Initializing Customer Onboarding App
+2022-03-28 20:15:53,168 Customer Onboarding App INFO: [In run.py at line 23] | Validating Customer Onboarding App configurations
+2022-03-28 20:15:53,172 Customer Onboarding App INFO: [In run.py at line 29] | Successfully validated configurations and initialized Customer Onboarding App
+2022-03-28 20:17:07,083 Customer Onboarding App INFO: [In run.py at line 20] | Initializing Customer Onboarding App
+2022-03-28 20:17:07,083 Customer Onboarding App INFO: [In run.py at line 23] | Validating Customer Onboarding App configurations
+2022-03-28 20:17:07,088 Customer Onboarding App INFO: [In run.py at line 29] | Successfully validated configurations and initialized Customer Onboarding App
+2022-03-28 20:17:07,093 Customer Onboarding App DEBUG: [In app.py at line 47] | <Flask 'customer_onboarding.app'>
+2022-03-28 20:17:07,355 Customer Onboarding App INFO: [In run.py at line 20] | Initializing Customer Onboarding App
+2022-03-28 20:17:07,356 Customer Onboarding App INFO: [In run.py at line 23] | Validating Customer Onboarding App configurations
+2022-03-28 20:17:07,361 Customer Onboarding App INFO: [In run.py at line 29] | Successfully validated configurations and initialized Customer Onboarding App
+2022-03-28 20:17:07,366 Customer Onboarding App DEBUG: [In app.py at line 47] | <Flask 'customer_onboarding.app'>
+2022-03-28 20:17:18,183 Customer Onboarding App DEBUG: [In get_current_customer_details.py at line 39] | Customer_details: [{'customer_id': 41, 'customer_name': 'Alphonso', 'customer_email_id': 'Noelia.Bogan@hotmail.com'}, {'customer_id': 21, 'customer_name': 'Zechariah', 'customer_email_id': 'Darren.Cronin@hotmail.com'}]
+2022-03-28 21:11:35,890 Customer Onboarding App INFO: [In run.py at line 20] | Initializing Customer Onboarding App
+2022-03-28 21:11:35,890 Customer Onboarding App INFO: [In run.py at line 23] | Validating Customer Onboarding App configurations
+2022-03-28 21:11:35,895 Customer Onboarding App INFO: [In run.py at line 29] | Successfully validated configurations and initialized Customer Onboarding App
+2022-03-28 21:11:35,899 Customer Onboarding App DEBUG: [In app.py at line 47] | <Flask 'customer_onboarding.app'>
+2022-03-28 21:11:43,249 Customer Onboarding App INFO: [In run.py at line 20] | Initializing Customer Onboarding App
+2022-03-28 21:11:43,249 Customer Onboarding App INFO: [In run.py at line 23] | Validating Customer Onboarding App configurations
+2022-03-28 21:11:43,254 Customer Onboarding App INFO: [In run.py at line 29] | Successfully validated configurations and initialized Customer Onboarding App
+2022-03-28 21:11:43,258 Customer Onboarding App DEBUG: [In app.py at line 47] | <Flask 'customer_onboarding.app'>
+2022-03-28 21:11:54,651 Customer Onboarding App INFO: [In run.py at line 20] | Initializing Customer Onboarding App
+2022-03-28 21:11:54,652 Customer Onboarding App INFO: [In run.py at line 23] | Validating Customer Onboarding App configurations
+2022-03-28 21:11:54,656 Customer Onboarding App INFO: [In run.py at line 29] | Successfully validated configurations and initialized Customer Onboarding App
+2022-03-28 21:11:54,661 Customer Onboarding App DEBUG: [In app.py at line 47] | <Flask 'customer_onboarding.app'>
+2022-03-28 21:26:04,291 Customer Onboarding App INFO: [In run.py at line 20] | Initializing Customer Onboarding App
+2022-03-28 21:26:04,291 Customer Onboarding App INFO: [In run.py at line 23] | Validating Customer Onboarding App configurations
+2022-03-28 21:26:04,297 Customer Onboarding App INFO: [In run.py at line 29] | Successfully validated configurations and initialized Customer Onboarding App
+2022-03-28 21:26:04,302 Customer Onboarding App DEBUG: [In app.py at line 47] | <Flask 'customer_onboarding.app'>
+2022-03-28 21:36:37,863 Customer Onboarding App INFO: [In run.py at line 20] | Initializing Customer Onboarding App
+2022-03-28 21:36:37,863 Customer Onboarding App INFO: [In run.py at line 23] | Validating Customer Onboarding App configurations
+2022-03-28 21:36:37,868 Customer Onboarding App INFO: [In run.py at line 29] | Successfully validated configurations and initialized Customer Onboarding App
+2022-03-28 21:36:37,872 Customer Onboarding App DEBUG: [In app.py at line 47] | <Flask 'customer_onboarding.app'>
+2022-03-28 22:38:47,793 Customer Onboarding App INFO: [In run.py at line 20] | Initializing Customer Onboarding App
+2022-03-28 22:38:47,793 Customer Onboarding App INFO: [In run.py at line 23] | Validating Customer Onboarding App configurations
+2022-03-28 22:38:47,798 Customer Onboarding App INFO: [In run.py at line 29] | Successfully validated configurations and initialized Customer Onboarding App
+2022-03-28 22:38:47,803 Customer Onboarding App DEBUG: [In app.py at line 47] | <Flask 'customer_onboarding.app'>
+2022-03-28 23:12:05,578 Customer Onboarding App INFO: [In run.py at line 20] | Initializing Customer Onboarding App
+2022-03-28 23:12:05,578 Customer Onboarding App INFO: [In run.py at line 23] | Validating Customer Onboarding App configurations
+2022-03-28 23:12:05,583 Customer Onboarding App INFO: [In run.py at line 29] | Successfully validated configurations and initialized Customer Onboarding App
+2022-03-28 23:12:05,587 Customer Onboarding App DEBUG: [In app.py at line 47] | <Flask 'customer_onboarding.app'>
+2022-03-28 23:12:11,922 Customer Onboarding App INFO: [In run.py at line 20] | Initializing Customer Onboarding App
+2022-03-28 23:12:11,922 Customer Onboarding App INFO: [In run.py at line 23] | Validating Customer Onboarding App configurations
+2022-03-28 23:12:11,927 Customer Onboarding App INFO: [In run.py at line 29] | Successfully validated configurations and initialized Customer Onboarding App
+2022-03-28 23:12:11,930 Customer Onboarding App DEBUG: [In app.py at line 47] | <Flask 'customer_onboarding.app'>
+2022-03-31 16:50:23,598 Customer Onboarding App INFO: [In run.py at line 20] | Initializing Customer Onboarding App
+2022-03-31 16:50:23,598 Customer Onboarding App INFO: [In run.py at line 23] | Validating Customer Onboarding App configurations
+2022-03-31 16:50:23,606 Customer Onboarding App INFO: [In run.py at line 29] | Successfully validated configurations and initialized Customer Onboarding App
+2022-03-31 16:50:23,613 Customer Onboarding App DEBUG: [In app.py at line 47] | <Flask 'customer_onboarding.app'>
+2022-03-31 16:50:23,894 Customer Onboarding App INFO: [In run.py at line 20] | Initializing Customer Onboarding App
+2022-03-31 16:50:23,894 Customer Onboarding App INFO: [In run.py at line 23] | Validating Customer Onboarding App configurations
+2022-03-31 16:50:23,899 Customer Onboarding App INFO: [In run.py at line 29] | Successfully validated configurations and initialized Customer Onboarding App
+2022-03-31 16:50:23,904 Customer Onboarding App DEBUG: [In app.py at line 47] | <Flask 'customer_onboarding.app'>
+2022-03-31 16:50:33,364 Customer Onboarding App DEBUG: [In get_customer_projects.py at line 36] | SELECT project.project_id AS project_project_id, project.customer_id AS project_customer_id, project.project_name AS project_project_name 
+FROM project 
+WHERE project.customer_id = %(customer_id_1)s
+2022-03-31 16:50:33,377 Customer Onboarding App DEBUG: [In get_customer_projects.py at line 54] | [[{'project_id': 19, 'customer_id': 28, 'project_name': 'Harry'}]]
+2022-03-31 16:50:33,378 Customer Onboarding App DEBUG: [In get_customer_projects.py at line 58] | SELECT milestones.project_id AS milestones_project_id, milestones.milestone_name AS milestones_milestone_name, milestones.sow_date AS milestones_sow_date, milestones.planned_date AS milestones_planned_date, milestones.actual_date AS milestones_actual_date 
+FROM milestones 
+WHERE milestones.project_id = %(project_id_1)s
+2022-03-31 16:50:33,387 Customer Onboarding App DEBUG: [In get_customer_projects.py at line 74] | [[{'milestone_name': 'Katarina', 'sow_date': datetime.date(2022, 1, 1), 'planned_date': datetime.date(2022, 3, 28), 'actual_date': datetime.date(2022, 3, 5)}]]
+2022-03-31 17:05:08,683 Customer Onboarding App INFO: [In run.py at line 35] | Customer Onboarding App has started...
+2022-03-31 17:05:08,797 Customer Onboarding App INFO: [In run.py at line 35] | Customer Onboarding App has started...
