@@ -1,0 +1,66 @@
+logging:
+  environment:
+    dtype: string
+    required: yes
+    default: development
+  log_handler:
+    dtype: string
+    required: yes
+    default: StreamHandler
+  log_level:
+    dtype: string
+    required: yes
+    default: DEBUG
+  log_file_path:
+    dtype: string
+    required: yes
+    default:
+  log_filename:
+    dtype: string
+    required: yes
+    default:
+  log_max_bytes:
+    dtype: int
+    required: no
+    default: 5000000
+  log_backup_count:
+    dtype: int
+    required: no
+    default: 7
+  log_rotation_when:
+    dtype: string
+    required: yes
+    default: midnight
+  log_utc_status:
+    dtype: bool
+    required: yes
+    default: false
+  log_formatter:
+    dtype: string
+    required: yes
+    default:
+database:
+  db:
+    dtype: string
+    required: yes
+    default:
+  db_name:
+    dtype: string
+    required: yes
+    default:
+  user:
+    dtype: string
+    required: yes
+    default:
+  password:
+    dtype: string
+    required: yes
+    default:
+  host:
+    dtype: string
+    required: yes
+    default: localhost
+  port:
+    dtype: int
+    required: yes
+    default:
